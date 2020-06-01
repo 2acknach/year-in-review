@@ -10,8 +10,8 @@ body {
 }
 
 #inner {
-    padding-left: 40%;
-    padding-right: 40%;
+    padding-left: 41%;
+    padding-right: 41%;
     padding-top: 10px;
     padding-bottom: 10px;
 }
@@ -23,7 +23,7 @@ a {
 #menu {
     border: 4px solid rgb(0, 119, 255);
     border-radius: 20px;
-    padding: 12px;
+    padding: 10px;
 }
 
 #menu ul {
